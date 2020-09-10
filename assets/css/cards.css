@@ -45,8 +45,6 @@ html {
 }
 
 .cardDescriptionText {
-  display: flex;
-  flex-flow: wrap;
   color: #57727c;
   font-size: 12px;
   text-align: center;
